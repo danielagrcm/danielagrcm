@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **danielagrcm/danielagrcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there! I'm Daniela</h1>
+<h1 align="center">Hi there! I'm Daniela 🙋🏻‍♀️</h1><br>
 
-A psychologist that enjoys coding 👩🏻‍💻, with experience using: 
+A psychologist that enjoys coding 👩🏻‍💻, with experience using: <br>
 <strong>
-✳️ HTML 
-✳️ CSS 
-✳️ JavaScript
+✳️ HTML <br>
+✳️ CSS <br>
+✳️ JavaScript <br>
 </strong>
 🎯 Current quest: learning <strong>TypeScript</strong> (wish me luck 🤞🏼)
