@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! I'm Daniela 🙋🏻‍♀️</h1><br>
 
 A psychologist that enjoys coding 👩🏻‍💻, with experience using: <br>
-<strong>
+<strong> <br>
 ✳️ HTML <br>
 ✳️ CSS <br>
 ✳️ JavaScript <br>
-</strong>
+</strong> <br>
 🎯 Current quest: learning <strong>TypeScript</strong> (wish me luck 🤞🏼)
