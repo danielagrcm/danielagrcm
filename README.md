@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there! I'm Daniela</h1>
+
+A psychologist that enjoys coding 👩🏻‍💻, with experience using: 
+<strong>
+✳️ HTML 
+✳️ CSS 
+✳️ JavaScript
+</strong>
+🎯 Current quest: learning <strong>TypeScript</strong> (wish me luck 🤞🏼)
